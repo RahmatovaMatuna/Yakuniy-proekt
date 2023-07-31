@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e23293df-7dbb-4449-97aa-6220b21c3085" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SSrgjrUD7IHB8Uai7XCB0fri7r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT PARK\Desktop\Maftuna\Maftuna\ph\rasmlar" />
+      <recent name="C:\Users\IT PARK\Desktop\Maftuna\Maftuna\rasmlar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT PARK\Desktop\Maftuna\Maftuna" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e23293df-7dbb-4449-97aa-6220b21c3085" name="Default Changelist" comment="" />
+      <created>1689150936896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689150936896</updated>
+      <workItem from="1689150938115" duration="8189000" />
+      <workItem from="1689159740451" duration="3000" />
+      <workItem from="1689323527706" duration="1761000" />
+      <workItem from="1689325361722" duration="28000" />
+      <workItem from="1689325669099" duration="13000" />
+      <workItem from="1689330571010" duration="1707000" />
+      <workItem from="1689332470679" duration="2000" />
+      <workItem from="1689583748964" duration="1785000" />
+      <workItem from="1690185694973" duration="1343000" />
+      <workItem from="1690187615484" duration="1771000" />
+      <workItem from="1690189432632" duration="706000" />
+      <workItem from="1690354062545" duration="14000" />
+      <workItem from="1690354096924" duration="41000" />
+      <workItem from="1690354172782" duration="1818000" />
+      <workItem from="1690356029007" duration="1536000" />
+      <workItem from="1690357942530" duration="855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

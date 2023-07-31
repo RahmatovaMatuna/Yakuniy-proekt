@@ -1,0 +1,199 @@
+.item{
+    background-color: #cce5ff;
+    height: 220px;
+}
+.images{
+    position: relative;
+    top: 10px;
+}
+.item2{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border: 1px solid white;
+    position: absolute;
+    left: 60px;
+}
+.square{
+    background-color: white;
+    height: 40px;
+    width: 140px;
+    position: relative;
+    top: 22px;
+    left: 25px;
+}
+.text-m{
+    font-size: 18px;
+    position: absolute;
+    left: 85px;
+    bottom: -10px;
+}
+.korzina{
+    position: absolute;
+    left: 8px;
+    bottom: 3px;
+}
+.nol{
+    width: 30px;
+    position: absolute;
+    left: 50px;
+    bottom: 5px;
+}
+.odam{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border: 1px solid white;
+    position: absolute;
+    left: 30px;
+    top: 26px;
+}
+.img1{
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+.p1{
+    position: relative;
+    width: 300px;
+    height: 150px;
+}
+.i1{
+    position: relative;
+    box-shadow: 10px 10px 10px 10px grey;
+    top: 100px;
+    right: 530px;
+}
+.img2{
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+.p2{
+    position: relative;
+    width: 300px;
+    height: 150px;
+}
+.i2{
+    position: relative;
+    box-shadow: 10px 10px 10px 10px grey;
+    bottom: 515px;
+    left: -150px;
+}
+.img3{
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+.p3{
+    position: relative;
+    width: 300px;
+    height: 150px;
+}
+.i3{
+    position: relative;
+    box-shadow: 10px 10px 10px 10px grey;
+    bottom: 1132px;
+    left: 220px;
+}
+.btn1{
+    position: relative;
+    background-color: springgreen;
+    border: springgreen;
+    width: 250px;
+    height: 50px;
+    top: 165px;
+    right: 500px;
+}
+.btn2{
+    position: relative;
+    background-color: springgreen;
+    border: springgreen;
+    width: 250px;
+    height: 50px;
+    bottom: 450px;
+    right: 120px;
+}
+.btn3{
+    position: relative;
+    background-color: springgreen;
+    border: springgreen;
+    width: 250px;
+    height: 50px;
+    bottom: 1065px;
+    left: 250px;
+}
+.input-group{
+    position: relative;
+    top: 230px;
+    left: 340px;
+}
+.cpl-md-6{
+    position: relative;
+    left: 90px;
+    bottom: 10px;
+}
+.con{
+    position: relative;
+    top: 800px;
+    right: 300px;
+}
+.mf6{
+    position: relative;
+    top: 800px;
+    left: 100px;
+}
+table{
+    position: relative;
+    top: 400px;
+    left: 120px;
+}
+.mftn{
+    position: relative;
+    top: 150px;
+    left: 350px;
+    margin-top: 10px;
+}
+h1{
+  position: relative;
+    top: 150px;
+    right: 200px;
+}
+.mtn{
+    position: relative;
+    top: 300px;
+    width: 415px;
+    height: 60px;
+    right: 65px;
+    background-color: springgreen;
+    border: 1px solid green;
+    border-radius: 30px;
+}
+.mtnn{
+    position: relative;
+    top: 300px;
+    width: 415px;
+    height: 60px;
+    left: 350px;
+    background-color: red;
+    border: 1px solid darkred;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

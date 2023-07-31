@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<div class="modal fade" id="startModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="mb-0">Tizimga kirish</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="login">Loginni kiriting</label>
+                    <input type="text" class="form-control" id="login">
+                </div>
+                <div class="form-group">
+                    <label for="password">Parolni kiriting</label>
+                    <input type="password" class="form-control" id="password">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" id="startBtn">Kirish</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container d-none" id="workingBlock">
+    <div class="row my-5">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="mb-0">Menejer: <span id="kassir"></span></h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="js/bootstrap.js"></script>
+<script src="js/src/popover.js"></script>
+<script src="js/jQuery.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
